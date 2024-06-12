@@ -1,0 +1,55 @@
+body{
+    background-color:#96f0b4c0;
+}
+
+/*Selector de Titulo*/
+h1{
+    color: blueviolet;
+}
+
+.ejemplo{
+    width: 1000px;
+    height:  500px;
+    background-color: #947ff5bd;
+}
+
+.displayBlock{
+    display: block;
+    background-color: pink;
+}
+
+.displayBlockConTamanio{
+    display: block;
+    background-color: pink;
+
+    width: 100px;
+    height: 100px;
+}
+
+.displayInline{
+    display: inline;
+    background-color: orange;
+}
+
+
+.displayInlineConTamanio{
+    display: inline;
+    background-color: orange;
+
+    width: 100px;
+    height: 100px;
+}
+
+.displayInlineBlock{
+    display: inline-block;
+    background-color: purple;
+}
+
+.displayInlineBlockConTamanio{
+    display: inline-block;
+    background-color: purple;
+
+    width: 100px;
+    height: 100px;
+}
+
